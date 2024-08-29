@@ -3,8 +3,10 @@
 meu nome é vitoria da silva pizzeco 
 
 -estou estudando o alura
+
 -estou me desenvolvendo na linguagem italiana,espanhola e inglesa
-utilizo esse Espaço para me organizar e compartilhar meus projetos desenvolvidos
+
+-utilizo esse Espaço para me organizar e compartilhar meus projetos desenvolvidos
 
 ## Você pode entar em contato comigo 📫
 
